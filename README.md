@@ -16,5 +16,5 @@ Model accuracy: 0.9185
 
 ![image](https://github.com/user-attachments/assets/144c624b-2f45-432a-9801-e7da6860b738)
 
-# EDA:
-Analysed the most distressed counties in California based on population, median income, FAIR Policy changes, Share of FAIR Policy per County, median annual property insurance, Historical and Current Property Damage, Historical Fire Count
+# Part Two: Identify the most distressed counties in California, that require home insurance policy support and change
+Analysed the most distressed counties in California based on population, median income, FAIR Policy changes, Share of FAIR Policy per County, median annual property insurance, Historical and Current Property Damage, Historical Fire Count. The goal being to identify high fire risk areas in which insurance companies have left, and residents are required to use FAIR Plan insurance policy as a 'last resort', with significantly high premiums, limited coverage etc. 
