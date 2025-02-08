@@ -6,7 +6,7 @@ https://www.kaggle.com/datasets/vijayveersingh/the-california-wildfire-data
 The dataset reflects the damage sustained by structures across various fire incidents, categorized by damage percentage—ranging from minor damage (1-10%) to complete destruction (50-100%) and collected by field inspectors who evaluate structures impacted by wildland fires.
 
 # Model:
-Used a RF Model to predict property damage 
+Using an RF Model, predicted the likeliness of damage
 
 # Results:
 Model accuracy: 0.9185
